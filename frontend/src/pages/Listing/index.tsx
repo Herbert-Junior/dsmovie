@@ -1,6 +1,8 @@
+import Pagination from "components/Pagination";
+
 function Listing (){
     return (
-        <h2>TIMAO</h2>
+        <Pagination />
     )
 }
 
